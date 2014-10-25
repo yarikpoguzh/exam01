@@ -1,0 +1,158 @@
+body {
+	width: 1400px;
+	font-family: "Lato", Arial, sans-serif;
+	font-size: 21px;
+
+
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.header {
+	background-image: url('../img/bg-header.jpg');
+	color: #FFFFFF;
+	height: 550px;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 300;
+	padding-top: 35px;
+	display: inline-block;
+}
+
+h2 {
+	font-size: 38px;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+p {
+	text-align: center;
+	padding-top: 35px;
+	line-height: 28px;
+}
+
+
+
+
+.container {
+	width:1000px;
+	margin: 0 auto;
+
+}
+
+ul.listmenu{
+	float: right;
+	margin-top: 55px;
+}
+
+ul.listmenu li{
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 20px;
+
+}
+
+ul.listmenu li a:hover {
+	color: #0099cc;
+
+	transition:all .2s ease-in;
+	-webkit-transition:all .2s ease-in;
+	-moz-transition:all .2s ease-in;
+}
+
+.header-description {
+	width: 620px;
+	margin: 0 auto;
+	padding-top: 135px;
+	text-align: center;
+
+}
+
+.button-head {
+	display: inline-block;
+	margin:50px 0 0 0;
+	padding: 0 60px;
+	background:#a4b9be;
+	font-size: 21px;
+	color:#fff;
+	height: 61px;
+	line-height: 61px;
+	text-decoration: none;
+	border-radius:3px ;
+
+
+}
+
+.button-head:hover {
+	background:#0099cc;
+	text-shadow: 0 0 5px #fff9fd;
+
+	transition:all .3s ease-in;
+	-webkit-transition:all .3s ease-in;
+	-moz-transition:all .3s ease-in;
+}
+
+.first-section {
+	background-color: #fcfcfc;
+}
+
+.first-section h2 {
+	color: #535a5e;
+	padding-top: 90px;
+
+}
+.first-section p {
+	color:#9fa4a7;
+	font-size: 16px;
+}
+
+.main-block {
+	text-align: center;
+}
+
+.pencil {
+	display: inline-block;
+	margin: 70px 0 100px 0;
+}
+
+a .pencil:hover{
+	background-color: #0099cc;
+}
+
+.second-section {
+	background-color: #a4b9be;
+}
+.second-section h2{
+	color: #f1f1f1;
+	padding-top: 90px;
+}
+
+.second-section p {
+	color: #ffffff;
+
+}
+
+.text-block2 {
+	display: inline-block;
+	width: 550px;
+	padding-bottom: 60px;
+}
+
+.screen {
+	background-image: url("../img/screenshot.jpg");
+	width: 868px;
+	height: 457px;
+	margin: auto;
+
+}
+
+
+
+
